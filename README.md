@@ -6,19 +6,19 @@ This is a simple implementation of the classic Tic-Tac-Toe game using React. It 
 
 1. Clone the repository to your local machine.
 
-```bash
 git clone https://github.com/your-username/tic-tac-toe-react.git
 
-# Navigate to the project directory.
+# 1.Navigate to the project directory.
 cd tic-tac-toe-react
+
 #  2. Install dependencies.
 npm install
-Start the development server.
-bash
-Copy code
+
+# 3.  Start the development server.
 npm start
-Open your browser and go to http://localhost:3000 to play the Tic-Tac-Toe game.
-# Game Rules
+# 4. Open your browser and go to http://localhost:3000 to play the Tic-Tac-Toe game.
+
+## Game Rules
 The game is played on a 3x3 grid.
 Players take turns to place their marker (X or O) in an empty square.
 The first player to get three of their markers in a row (horizontally, vertically, or diagonally) wins.
